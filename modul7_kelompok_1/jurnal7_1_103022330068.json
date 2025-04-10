@@ -1,0 +1,19 @@
+{
+   "firstName": "Fadhli",
+   "lastName": "Dzaki",
+   "gender": "male",
+   "age": 25,
+   "address": {
+       "streetAddress": "Majalaya",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "course": [
+       { "courseCode": "CRI2C4", "courseName": "Konstruksi Perangkat Lunak" },
+       { "courseCode": "CRI2C5", "courseName": "Arsitektur Desain Perangkat Lunak" },
+       { "courseCode": "CRI2C6", "courseName": "Basis Data" },
+       { "courseCode": "CRI2C7", "courseName": "Proyek tingkat 2" },
+       { "courseCode": "CRI2C8", "courseName": "Keceradasan Buatan" },
+       { "courseCode": "CRI2C9", "courseName": "Dasar Jaringan komputer" }
+   ]
+}
