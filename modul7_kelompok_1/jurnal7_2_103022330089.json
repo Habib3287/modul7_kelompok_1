@@ -1,0 +1,41 @@
+{
+  "members" : [
+    {
+       "firstName": "Haafizd",
+       "lastName": "Alhabib",
+       "gender": "male",
+       "age": 22,
+       "nim": "103022330089"
+    },
+    {
+       "firstName": "Fadhli",
+       "lastName": "Muhammad",
+       "gender": "male",
+       "age": 19,
+       "nim": "103022330068"
+    },
+    {
+       "firstName": "Gilang",
+       "lastName": "Tirta",
+       "gender": "male",
+       "age": 20,
+       "nim": "103022330077"
+    },
+    {
+       "firstName": "Fauzul",
+       "lastName": "Akbar",
+       "gender": "male",
+       "age": 22,
+       "nim": "103022300102"
+    },
+    {
+       "firstName": "Hafidz",
+       "lastName": "Musyafa",
+       "gender": "male",
+       "age": 19,
+       "nim": "103022300162"
+    }
+
+
+  ]
+}
