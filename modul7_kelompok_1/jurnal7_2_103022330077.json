@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "gilang",
+       "lastName": "tirta",
+       "gender": "male",
+       "age": 20,
+       "nim": "103022330077"
+    },
+    {
+       "firstName": "habib",
+       "lastName": "Smooth",
+       "gender": "male",
+       "age": 32,
+       "nim": "5678568567"
+    },
+    {
+       "firstName": "padly",
+       "lastName": "Kelies",
+       "gender": "female",
+       "age": 24,
+       "nim": "456754675"
+    }
+  ]
+}

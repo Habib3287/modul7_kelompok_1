@@ -31,12 +31,5 @@ public class DataMahasiswa_103022330077
         Console.WriteLine($"Alamat: {data.alamat.jalan}, {data.alamat.kota}, {data.alamat.provinsi}");
 
     }
-	class Program
-	{
-        static void Main(string[] args)
-        {
-            DataMahasiswa_103022330077 data = new DataMahasiswa_103022330077();
-            data.readJson();
-        }
-    }
+	
 }
